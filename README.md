@@ -1,0 +1,2 @@
+# MAOBit
+a new cryptocurrency
